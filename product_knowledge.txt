@@ -1,0 +1,29 @@
+1. Savings Account:
+   - A basic account for storing and saving money, usually earning interest.
+
+2. Checking Account:
+   - An account for everyday transactions, providing easy access to funds through checks and debit cards.
+
+3. Credit Card:
+   - A card that allows users to make purchases on credit, with a specified credit limit.
+
+4. Personal Loan:
+   - A loan provided for personal use, such as education, medical expenses, or debt consolidation.
+
+5. Mortgage Loan:
+   - A loan specifically for purchasing real estate, with the property itself serving as collateral.
+
+6. Auto Loan:
+   - A loan designed for financing the purchase of a vehicle, with the vehicle serving as collateral.
+
+7. Fixed Deposit:
+   - A savings option where a specific amount is deposited for a fixed period at a predetermined interest rate.
+
+8. Investment Account:
+   - An account that allows customers to invest in various financial instruments like stocks, bonds, and mutual funds.
+
+9. Online Banking Services:
+   - Digital platforms providing customers with the ability to manage their accounts, pay bills, and perform transactions online.
+
+10. Retirement Savings Account:
+    - An account designed to help individuals save for retirement, often with tax advantages.

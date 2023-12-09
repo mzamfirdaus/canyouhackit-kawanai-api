@@ -1,0 +1,44 @@
+Employee Website:
+
+Website: www.companyemployeeportal.com
+Login credentials: Username - newemployee, Password - Welcome@123
+Leave Application System:
+
+Leave Portal: leave.companyportal.com
+Guidelines: Check the Employee Handbook for leave policies and procedures.
+Expense Claim System:
+
+Claim Portal: expenses.companyportal.com
+Guidelines: Refer to the Expense Claim Policy document for submission instructions.
+Company Email:
+
+Email Platform: webmail.company.com
+Login credentials: Email - newemployee@company.com, Password - MailPass@456
+Training and Development:
+
+Learning Management System (LMS): training.companyportal.com
+Explore available courses and training programs.
+Employee Handbook:
+
+Access the digital Employee Handbook for detailed information on company policies and procedures.
+IT Helpdesk:
+
+Contact IT support for any technical issues or assistance.
+Email: ithelpdesk@company.com, Phone: +1 (555) 123-4567
+HR Contact Information:
+
+Reach out to the HR department for HR-related queries or support.
+Email: hr@company.com, Phone: +1 (555) 987-6543
+Health and Safety Guidelines:
+
+Access safety protocols and guidelines on safety.companyportal.com.
+Social Media and Collaboration:
+
+Connect with colleagues on the company's social media and collaboration platforms.
+Intranet: intranet.company.com
+Company Directory:
+
+Find contact information for colleagues using the online company directory.
+Benefits and Compensation Information:
+
+Retrieve details on employee benefits and compensation packages through the HR portal.
